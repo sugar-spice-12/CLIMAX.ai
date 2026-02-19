@@ -1,20 +1,54 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="CLIMAX Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# CLIMAX.ai  
+### Climate Intelligence & Mitigation Action Exchange
 
-This contains everything you need to run your app locally.
+CLIMAX.ai is a distributed **Climate Action Trigger Network** designed for high-density coastal cities such as **Singapore and Hong Kong**.
 
-**Note:** This application now uses mock data and does not require any API keys.
+Unlike traditional weather dashboards, this platform focuses on **coordinated operational adaptation** during compound climate stress events such as:
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Fv6a-ynhG3-kkq_7Ru7nuAmpaf4giDN7
+- Heavy rainfall × Traffic congestion × Drainage saturation  
+- Heatwave × Peak grid demand  
+- Storm surge × High tide × Coastal infrastructure density  
+
+The goal is to reduce cascading failures by synchronizing decentralized urban actors before systemic overload occurs.
+
+---
+
+## Key Features
+
+-  Interactive urban network visualization  
+-  Compound Risk Index calculation  
+-  Multi-hazard Trigger Engine  
+-  Institutional Response Library  
+-  Real-time synchronization simulation  
+-  Resilience metrics dashboard  
+-  Singapore & Hong Kong scenario modes  
+
+---
+
+## System Concept
+
+CLIMAX.ai transforms climate signals into coordinated micro-adaptations across:
+
+- Transport systems  
+- Campuses  
+- Commercial districts  
+- Logistics hubs  
+- Micro-grids  
+
+Instead of only predicting risk, the system activates synchronized operational adjustments to stabilize urban systems.
+
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+### Prerequisites
+
+- Node.js (v18+ recommended)
+
+### Installation
 
 1. Install dependencies:
-   `npm install`
-2. Run the app:
-   `npm run dev`
+
