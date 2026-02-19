@@ -1,0 +1,7 @@
+{
+  "name": "CLIMAX.ai - Urban Climate Intelligence",
+  "description": "A multi-hazard urban risk intelligence platform for high-density coastal cities like Singapore and Hong Kong, providing predictive insights for floods, heatwaves, and air quality.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
